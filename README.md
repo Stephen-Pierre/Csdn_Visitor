@@ -7,6 +7,9 @@ CSDN刷访问量爬虫
 ![主页链接](https://github.com/Stephen-Pierre/Csdn_Visitor/blob/master/image/image2.png)
 
 2.在main函数中将page_num 换成你博客的总页数
+
+![总页数](https://github.com/Stephen-Pierre/Csdn_Visitor/blob/master/image/image3.png)
+
 3.运行csdn_visitor.py
 # 用到的库
 ## time
